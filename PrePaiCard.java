@@ -1,8 +1,4 @@
-// -------------------------------------------------------------
-// Assignment 4
-// Written by: Nguyen Le 40272922
-// For COMP 248 Section H – Fall 2023
-// -------------------------------------------------------------
+
 public class PrePaiCard {
 
 	// instance variables
