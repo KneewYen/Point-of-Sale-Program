@@ -1,8 +1,4 @@
-// -------------------------------------------------------------
-// Assignment 4
-// Written by: Nguyen Le 40272922
-// For COMP 248 Section H – Fall 2023
-// -------------------------------------------------------------
+
 import java.util.Scanner;
 public class PoSDemo {
 	static Scanner in = new Scanner (System.in);
